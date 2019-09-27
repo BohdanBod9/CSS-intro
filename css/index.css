@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+
+body {
+    border: 1px solid black;
+    max-width: 400px;
+    margin: auto;
+}
+
+p {
+    color: brown;
+    display: inline;
+}
+
+#selected {
+    border: 1px solid blue;
+    
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+p:hover {
+    color: aquamarine;
+}
+
+p::first-letter {
+    font-size: 2rem:
+}
